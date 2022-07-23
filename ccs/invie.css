@@ -45,7 +45,9 @@ input:focus, textarea:focus {
 }
 
 .background {
-background-image: url('../images/background.png');
+/*background-image: url('../images/background.png');*/
+background-image: url('../images/guitarra1.jpg');
+
 	background-size: cover;
 }
 
